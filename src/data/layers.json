@@ -1,0 +1,264 @@
+{
+ "artboard": {
+  "w": 776,
+  "h": 621
+ },
+ "sky": {
+  "src": "/layers/sky.webp"
+ },
+ "reference": {
+  "src": "/layers/reference.webp"
+ },
+ "mountains": {
+  "left": {
+   "src": "/layers/mountain-left.webp",
+   "x": 0,
+   "y": 390,
+   "w": 239,
+   "h": 144
+  },
+  "right": {
+   "src": "/layers/mountain-right.webp",
+   "x": 553,
+   "y": 425,
+   "w": 223,
+   "h": 143
+  }
+ },
+ "rocks": [
+  {
+   "src": "/layers/rock-left.webp",
+   "x": 224,
+   "y": 520,
+   "w": 153,
+   "h": 98
+  },
+  {
+   "src": "/layers/rock-center.webp",
+   "x": 249,
+   "y": 467,
+   "w": 270,
+   "h": 153
+  },
+  {
+   "src": "/layers/rock-right.webp",
+   "x": 391,
+   "y": 513,
+   "w": 153,
+   "h": 102
+  }
+ ],
+ "boulders": [
+  {
+   "src": "/layers/boulder-left.webp",
+   "x": 0,
+   "y": 517,
+   "w": 140,
+   "h": 89
+  },
+  {
+   "src": "/layers/boulder-right.webp",
+   "x": 665,
+   "y": 483,
+   "w": 111,
+   "h": 83
+  }
+ ],
+ "canopy": {
+  "left": {
+   "src": "/layers/canopy-left.webp",
+   "x": 74,
+   "y": 61,
+   "w": 312,
+   "h": 439
+  },
+  "right": {
+   "src": "/layers/canopy-right.webp",
+   "x": 367,
+   "y": 75,
+   "w": 319,
+   "h": 425
+  }
+ },
+ "blooms": {
+  "left": [
+   {
+    "src": "/layers/bloom-l-00.webp",
+    "x": 215,
+    "y": 320,
+    "w": 109,
+    "h": 175
+   },
+   {
+    "src": "/layers/bloom-l-01.webp",
+    "x": 293,
+    "y": 320,
+    "w": 90,
+    "h": 178
+   },
+   {
+    "src": "/layers/bloom-l-02.webp",
+    "x": 143,
+    "y": 320,
+    "w": 103,
+    "h": 129
+   },
+   {
+    "src": "/layers/bloom-l-03.webp",
+    "x": 213,
+    "y": 173,
+    "w": 113,
+    "h": 215
+   },
+   {
+    "src": "/layers/bloom-l-04.webp",
+    "x": 291,
+    "y": 173,
+    "w": 93,
+    "h": 214
+   },
+   {
+    "src": "/layers/bloom-l-05.webp",
+    "x": 110,
+    "y": 320,
+    "w": 52,
+    "h": 60
+   },
+   {
+    "src": "/layers/bloom-l-06.webp",
+    "x": 135,
+    "y": 173,
+    "w": 113,
+    "h": 215
+   },
+   {
+    "src": "/layers/bloom-l-07.webp",
+    "x": 76,
+    "y": 177,
+    "w": 94,
+    "h": 194
+   },
+   {
+    "src": "/layers/bloom-l-08.webp",
+    "x": 213,
+    "y": 63,
+    "w": 113,
+    "h": 179
+   },
+   {
+    "src": "/layers/bloom-l-09.webp",
+    "x": 291,
+    "y": 63,
+    "w": 93,
+    "h": 179
+   },
+   {
+    "src": "/layers/bloom-l-10.webp",
+    "x": 137,
+    "y": 73,
+    "w": 111,
+    "h": 169
+   },
+   {
+    "src": "/layers/bloom-l-11.webp",
+    "x": 83,
+    "y": 111,
+    "w": 87,
+    "h": 131
+   }
+  ],
+  "right": [
+   {
+    "src": "/layers/bloom-r-00.webp",
+    "x": 435,
+    "y": 325,
+    "w": 107,
+    "h": 173
+   },
+   {
+    "src": "/layers/bloom-r-01.webp",
+    "x": 370,
+    "y": 325,
+    "w": 92,
+    "h": 173
+   },
+   {
+    "src": "/layers/bloom-r-02.webp",
+    "x": 512,
+    "y": 325,
+    "w": 102,
+    "h": 160
+   },
+   {
+    "src": "/layers/bloom-r-03.webp",
+    "x": 429,
+    "y": 184,
+    "w": 116,
+    "h": 208
+   },
+   {
+    "src": "/layers/bloom-r-04.webp",
+    "x": 369,
+    "y": 184,
+    "w": 97,
+    "h": 206
+   },
+   {
+    "src": "/layers/bloom-r-05.webp",
+    "x": 509,
+    "y": 184,
+    "w": 116,
+    "h": 208
+   },
+   {
+    "src": "/layers/bloom-r-06.webp",
+    "x": 592,
+    "y": 327,
+    "w": 65,
+    "h": 88
+   },
+   {
+    "src": "/layers/bloom-r-07.webp",
+    "x": 588,
+    "y": 185,
+    "w": 94,
+    "h": 205
+   },
+   {
+    "src": "/layers/bloom-r-08.webp",
+    "x": 429,
+    "y": 77,
+    "w": 116,
+    "h": 174
+   },
+   {
+    "src": "/layers/bloom-r-09.webp",
+    "x": 369,
+    "y": 82,
+    "w": 97,
+    "h": 169
+   },
+   {
+    "src": "/layers/bloom-r-10.webp",
+    "x": 509,
+    "y": 84,
+    "w": 115,
+    "h": 167
+   },
+   {
+    "src": "/layers/bloom-r-11.webp",
+    "x": 588,
+    "y": 109,
+    "w": 96,
+    "h": 141
+   }
+  ]
+ },
+ "trunk": {
+  "src": "/layers/trunk.webp",
+  "x": 297,
+  "y": 218,
+  "w": 167,
+  "h": 355
+ }
+}
