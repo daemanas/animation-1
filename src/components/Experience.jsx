@@ -4,7 +4,7 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger'
 import SceneLayers from './SceneLayers'
 import TreeSketch from './TreeSketch'
 import Atmosphere from './Atmosphere'
-
+ 
 gsap.registerPlugin(ScrollTrigger)
 
 const CHAPTERS = [
